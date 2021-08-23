@@ -1,0 +1,1 @@
+Developed using vanilla javaScript and rendered it on HTML5. Generates user desired password based on their various parameters like length,uppercase,lowercase,numbers or symbols using DOM manipulation.
